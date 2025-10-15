@@ -39,6 +39,9 @@
 .opacity-25{
     opacity: .25;
 }
+.opacity-50{
+    opacity: .5;
+}
 .right-\[-300\]{
     right: -300px;
 }
