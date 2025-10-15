@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="184" height="184" id="_圖層_1" data-name="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 184 184">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0, ._x00E7__x00B9__x00AA_圖樣式_x0020_2, .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        fill-rule: evenodd;
+      }
+
+      .st2, .st3 {
+        fill: #fff;
+      }
+
+      ._x00E7__x00B9__x00AA_圖樣式_x0020_2 {
+        stroke: url(#_未命名漸層_331);
+      }
+
+      ._x00E7__x00B9__x00AA_圖樣式_x0020_2, .st1 {
+        stroke-width: 2px;
+      }
+
+      .st1 {
+        stroke: url(#_未命名漸層_332);
+      }
+
+      ._x00E7__x00B9__x00AA_圖樣式 {
+        fill: url(#_未命名漸層_33);
+      }
+
+      .st4 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <linearGradient id="_未命名漸層_33" data-name="未命名漸層 33" x1="91" y1="19" x2="91" y2="169" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fecd00"/>
+      <stop offset="1" stop-color="#df9f14"/>
+    </linearGradient>
+    <linearGradient id="_未命名漸層_331" data-name="未命名漸層 33" y1="10" y2="178" xlink:href="#_未命名漸層_33"/>
+    <linearGradient id="_未命名漸層_332" data-name="未命名漸層 33" y1="10" y2="178" xlink:href="#_未命名漸層_33"/>
+    <clipPath id="clippath">
+      <rect class="st0" x="30" y="63" width="122.83" height="63.92"/>
+    </clipPath>
+  </defs>
+  <rect class="_x00E7__x00B9__x00AA_圖樣式" x="16" y="19" width="150" height="150" rx="36" ry="36"/>
+  <rect class="st1" x="8" y="11" width="166" height="166" rx="36" ry="36"/>
+  <g class="st4">
+    <g>
+      <path class="st3" d="M66.18,86.13h-5.48l-2.1,12.62h5.12c3.79-.41,7.14-1.69,7.68-8.83-.18-2.64-2.28-3.79-5.22-3.79Z"/>
+      <path class="st2" d="M91.42,63c-33.91,0-61.42,14.31-61.42,31.96s27.51,31.96,61.42,31.96,61.42-14.31,61.42-31.96-27.51-31.96-61.42-31.96ZM64.49,105.07h-7.68l-1.59,8.83h-7.98l6.73-34.09h15.56c6.73.41,10.11,3.79,10.11,9.67.19,4.11-1.33,8.12-4.2,11.07-2.87,2.95-6.83,4.59-10.95,4.51h0ZM96.18,86.13h-6.32l-3.79,18.94h-7.98l6.73-34.06h7.98l-1.69,8.83h7.68c6.73.41,9.26,3.79,8.42,7.98l-2.99,17.25h-8.47l2.94-15.56c.41-2.23.41-3.38-2.53-3.38h.03ZM120.87,105.07h-7.68l-1.59,8.83h-7.98l6.73-34.09h15.56c6.73.41,10.11,3.79,10.11,9.67.19,4.11-1.33,8.12-4.2,11.07-2.87,2.95-6.83,4.59-10.95,4.51Z"/>
+      <path class="st3" d="M122.54,86.13h-5.53l-2.1,12.62h5.12c3.79-.41,7.14-1.69,7.68-8.83-.1-2.64-2.2-3.79-5.17-3.79h0Z"/>
+    </g>
+  </g>
+</svg>
