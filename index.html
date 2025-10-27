@@ -2113,7 +2113,7 @@
                         </div>
                     </div>
                 </div>
-                
+
                 <script>
                     document.addEventListener("DOMContentLoaded", function () {
                         const voSerContents = document.querySelectorAll('.VOServices .categoryContent');
@@ -3065,7 +3065,7 @@
                             const button = document.querySelector(".vo-content-playpause-btn button");
                             button.classList.toggle('active');
                             const play_btn = button ?.getAttribute('data-play');
-                            
+
                             const pause_btn = button ?.getAttribute('data-pause');
                             const is_active = document.querySelector(".vo-content-playpause-btn button.active");
                             if (!is_active) {
@@ -3157,13 +3157,8 @@
                                 </button>
                             </div>
                             <div class="w-full lg:w-[55%] 3xl:w-[55%] mt-8 lg:mt-0 aspect-video">
-                                <div id="player-container" data-src="./images/video_001.mp4"
-                                    class="relative w-full h-full">
-                                    <iframe width="560" height="315"
-                                        src="https://www.youtube.com/embed/oduYCFQoZpc?si=34u5ViONZ0Kj6dS6"
-                                        title="YouTube video player" frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                                        referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                                <div id="player-container" data-src="./images/video_001.mp4" class="relative w-full h-full">
+                                    <iframe style="width: 100%; max-width: 560px;" height="315" src="https://www.youtube.com/embed/oduYCFQoZpc?si=34u5ViONZ0Kj6dS6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                                 </div>
                             </div>
                         </div>
@@ -4419,4 +4414,3 @@
 </body>
 
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1759351650 -->

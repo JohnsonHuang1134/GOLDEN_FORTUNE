@@ -2742,7 +2742,7 @@ div#quiklink-menu ul li {
 .hs-form input:not([type=submit]),
 .hs-form select,
 .hs-form textarea {
-    width: 100% !important;
+    width: 100% ;
     background-color: transparent;
     border: 1px solid #fff;
     color: #fff;

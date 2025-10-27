@@ -2900,18 +2900,6 @@ div#quiklink-menu ul li {
     box-shadow: 0 0 0 30px var(--bg-color) inset !important
 }
 
-.hs-form input:not([type=submit]),
-.hs-form select,
-.hs-form textarea {
-    width: 100% !important;
-    background-color: transparent;
-    border: 1px solid #fff;
-    color: #fff;
-    border-radius: .75rem;
-    outline: 0;
-    padding: 8px 16px;
-    font-size: 1rem
-}
 
 .form select option,
 .hs-form select option {
