@@ -396,7 +396,7 @@
 
         <header aria-label="header">
             <div class="VONavbarContainer">
-                <div class="VONavbar  bg-light font-medium fixed z-[1000] w-full duration-[300ms] px-4 md:px-8 xl:px-16 2xl:px-36 py-2  false  -top-[2px]">
+                <div class="VONavbar   bg-light font-medium fixed z-[1000] w-full duration-[300ms] px-4 md:px-8 xl:px-16 2xl:px-36 py-2  false  -top-[2px]">
                     <a href="#content" tabindex="0" aria-label="go to main content" class="go_to_main_content bg-white text-body-1 font-primary inline-block px-5 py-2 border border-primary rounded-sm fixed 3xl:top-[120px] top-[75px] left-3 z-[10]">Skip
                     to main content</a>
                     <div class="flex justify-between items-center">
@@ -1186,7 +1186,7 @@
 
             <main>
 
-                <div id="" class="pt-[43px] md:pt-[61px] xl:pt-[65px] 2xl:pt-[74px] text-primary">
+                <div id="VOHeroV2" class="pt-[43px] md:pt-[61px] xl:pt-[65px] 2xl:pt-[74px] text-primary">
                     <div class=" relative overflow-hidden px-4 md:px-8 lg:px-24 2xl:px-36  py-16 pb-8 xl:py-20 bg_019">
                         <div class="w-full relative">
                             <div class="w-full lg:w-[70%] xl:w-[60%] ">
@@ -1215,14 +1215,14 @@
 
                 <script>
                     document.addEventListener("DOMContentLoaded", function() {
-                        const heroElement = document.querySelector('.VOHeroV2');
+                        const heroElement = document.querySelector('#VOHeroV2');
 
                         function arrowHandler() {
                             if (heroElement) {
                                 window.scrollTo(0, heroElement.scrollHeight);
                             }
                         }
-                        document.querySelector('.VOHeroV2 .arrow-button').addEventListener('click', arrowHandler);
+                        document.querySelector('#VOHeroV2 .arrow-button').addEventListener('click', arrowHandler);
                     });
                 </script>
 
@@ -2212,7 +2212,7 @@
                 </section>
                 <style>
                 </style>
-                <script>
+                <!-- <script>
                     document.addEventListener("DOMContentLoaded", function() {
                         // Your HubSpot form details
                         const portalId = "5194436";
@@ -2311,7 +2311,7 @@
                         })
 
                     });
-                </script>
+                </script> -->
 
 
 
